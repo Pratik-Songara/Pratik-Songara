@@ -1,5 +1,5 @@
 
-# Hi, I'm Prateek 👋
+# Hi, I'm Pratik 👋
 
 ### 🚀 About Me  
 - 🌱 I’m currently learning Web Development  
